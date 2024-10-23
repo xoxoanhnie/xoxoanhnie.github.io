@@ -10,7 +10,7 @@ In this case study, I dived into DoorDash's data using Excel to explore spending
 
 ---
 #### [Massachusset Education Analysis](https://www.loom.com/share/9a01e5c918014d319bb1a248b52a1d8f?sid=97c45fa2-f617-4bed-88ea-ff0ce3dc504e)
-<img src="images/Education Analysis.png?raw=true"/>
+<img src="images/Your paragraph text.png?raw=true"/>
 For this project, I delved into key insights about the Massachusetts education system using Tableau, going over the schools, students, graduation rates, class sizes, and district performance in the 4th grade MCAS exam. The data explores how class size may impact college attendance, disparities in college attendance based on economic disadvantage, variation in graduation rates, and the 4th grade MCAS passing rates in different region of Massachusset. 
 
 ---
