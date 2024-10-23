@@ -5,7 +5,7 @@
 ### Learn About My Projects
 
 #### [Doordash Analysis](https://www.linkedin.com/pulse/analyzing-spending-patterns-doordash-demographics-family-annie-tran-00ulc/?trackingId=pj6iXWrUThSIVgotbPwOMg%3D%3D)
-<img src="/images/Doordash.png?raw=true"/>
+<img src="/images/DoorDash.png?raw=true"/>
 Excel is the best
 
 ---
