@@ -5,8 +5,8 @@
 ### Learn About My Projects
 
 #### [Doordash Analysis](https://www.linkedin.com/pulse/analyzing-spending-patterns-doordash-demographics-family-annie-tran-00ulc/?trackingId=pj6iXWrUThSIVgotbPwOMg%3D%3D)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
+<img src="/images/Doordash.png?raw=true"/>
+Excel is the best
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
