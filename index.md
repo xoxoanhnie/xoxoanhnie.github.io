@@ -9,9 +9,9 @@
 Excel is the best
 
 ---
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
+#### [Massachusset Education Analysis](/files/Day 12 - 21 days to data.pdf](https://www.loom.com/share/9a01e5c918014d319bb1a248b52a1d8f?sid=97c45fa2-f617-4bed-88ea-ff0ce3dc504e)
 <img src="images/21 Days To Data Challenge.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
+For this project, I delved into key insights about the Massachusetts education system using Tableau, going over the schools, students, graduation rates, class sizes, and district performance in the 4th grade MCAS exam. The data explores how class size may impact college attendance, disparities in college attendance based on economic disadvantage, variation in graduation rates, and the 4th grade MCAS passing rates in different region of Massachusset. 
 
 ---
 #### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
