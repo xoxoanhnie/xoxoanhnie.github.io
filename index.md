@@ -15,13 +15,9 @@ For this project, I delved into key insights about the Massachusetts education s
 
 ---
 
-### Category Name 2
+### SQL Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Project 1: Global Debt Insights: Analyzing Financial Data to Understand Loan Disparities Across Nations](https://xoxoanhnie.carrd.co/)
 
 ---
 
