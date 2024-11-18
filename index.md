@@ -20,7 +20,10 @@ For this project, I delved into key insights about the Massachusetts education s
 - [Project 1: Global Debt Insights: Analyzing Financial Data to Understand Loan Disparities Across Nations](https://xoxoanhnie.carrd.co/)
 
 ---
+- [Project 2: Optimizing Healthcare Operations: A Data-Driven Analysis of Clinic and Physician Performance
+](https://xoxoanhnie1.carrd.co/)
 
+---
 
 
 
