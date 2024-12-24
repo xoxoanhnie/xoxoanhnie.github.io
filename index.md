@@ -1,4 +1,4 @@
-# Welcome to Annie Tran's Portfolio
+# Annie Tran's Portfolio
 
 ---
 
