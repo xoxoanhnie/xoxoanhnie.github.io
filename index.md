@@ -27,27 +27,70 @@ Created reusable SQL analyses that identified specialty-level procedure intensit
 </p>
 
 
-#### [Doordash Analysis](https://www.linkedin.com/pulse/analyzing-spending-patterns-doordash-demographics-family-annie-tran-00ulc/?trackingId=pj6iXWrUThSIVgotbPwOMg%3D%3D)
-<img src="/images/DoorDash.png?raw=true"/>
-In this case study, I analyzed DoorDash's data using Excel to explore spending habits, age groups, households with kids, and a closer look at where all that money goes.
-# Tools:
-Excel (pivot tables, formulas), data cleaning, exploratory analysis
-# Methods: 
-Data cleaning, grouping & aggregation, trend analysis, stakeholder-oriented metrics
+<h3>DoorDash Spending Analysis (Excel)</h3>
 
----
-#### [Massachusetts Education Analysis](https://www.loom.com/share/9a01e5c918014d319bb1a248b52a1d8f?sid=97c45fa2-f617-4bed-88ea-ff0ce3dc504e)
-<img src="images/Education (1).png?raw=true"/>
-For this project, I delved into key insights about the Massachusetts education system using Tableau, the data explores how class size may impact college attendance, disparities in college attendance based on economic disadvantage, variation in graduation rates, and the 4th grade MCAS passing rates in different region of Massachusetts. 
-# Tools:
-Tableau (dashboards, calculated fields), data visualization
+<img src="/images/DoorDash.png" alt="DoorDash Analysis" width="600"/>
 
----
+<p>
+  <strong>Problem:</strong><br>
+  Understand how spending behavior varies across demographics, households
+  with children, and age groups to identify revenue drivers.
+</p>
 
-### Additional Projects
+<p>
+  <strong>Tools:</strong><br>
+  Excel (Pivot Tables, formulas)
+</p>
 
-- [Global Debt Insights: SQL analysis of international debt disparities using World Bank data](https://xoxoanhnie.carrd.co/)
+<p>
+  <strong>Outcome:</strong><br>
+  Identified demographic segments associated with higher spending,
+  supporting customer segmentation analysis.
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/pulse/analyzing-spending-patterns-doordash-demographics-family-annie-tran-00ulc/">
+    Case Study →
+  </a>
+</p>
 
 
+<h3>Massachusetts Education Analysis (Tableau)</h3>
 
+<img src="/images/Education (1).png" alt="Massachusetts Education Dashboard" width="600"/>
 
+<p>
+  <strong>Problem:</strong><br>
+  Analyze how structural and socioeconomic factors influence educational outcomes across Massachusetts.
+</p>
+
+<p>
+  <strong>Tools:</strong><br>
+  Tableau (dashboards, calculated fields), data visualization
+</p>
+
+<p>
+  <strong>Methods:</strong><br>
+  Comparative analysis, regional segmentation, KPI visualization
+</p>
+
+<p>
+  <strong>Outcome:</strong><br>
+  Identified relationships between class size, economic disadvantage, graduation rates, MCAS performance, and college attendance across regions.
+</p>
+
+<p>
+  <a href="https://www.loom.com/share/9a01e5c918014d319bb1a248b52a1d8f?sid=97c45fa2-f617-4bed-88ea-ff0ce3dc504e" target="_blank">
+    Dashboard Walkthrough →
+  </a>
+</p>
+
+<h3>Additional Projects</h3>
+
+<ul>
+  <li>
+    <a href="https://xoxoanhnie.carrd.co/" target="_blank">
+      Global Debt Insights — SQL analysis of international debt disparities using World Bank data
+    </a>
+  </li>
+</ul>
