@@ -3,7 +3,6 @@
 ---
 
 ### Learn About My Projects
-<h2>Learn About My Projects</h2>
 
 <h3>Clinic & Physician Performance (SQL)</h3>
 
