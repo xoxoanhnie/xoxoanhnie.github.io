@@ -3,17 +3,30 @@
 ---
 
 ### Learn About My Projects
+<h2>Learn About My Projects</h2>
+
 <h3>Clinic & Physician Performance (SQL)</h3>
-<p>
-Hospital data analysis using advanced SQL to examine length of stay,
-procedure intensity, and demographic trends.
+
+<p><strong>Problem:</strong><br>
+Benchmark physician specialty performance using hospital metrics such as length of stay, procedures, and lab utilization.
 </p>
+
+<p><strong>Tools:</strong><br>
+SQL (joins, aggregations, CTEs) • Tableau 
+</p>
+
+<p><strong>Outcome:</strong><br>
+Created repeatable SQL queries that surface specialty-level benchmarks and patient flow patterns to support operational decision-making.
+</p>
+
+<p>
 <a href="https://github.com/xoxoanhnie/Clinic-and-Physician-Performance" target="_blank">
   GitHub Repository →
 </a><br>
 <a href="https://xoxoanhnie1.carrd.co/" target="_blank">
   Project Overview (Carrd) →
 </a>
+</p>
 
 
 #### [Doordash Analysis](https://www.linkedin.com/pulse/analyzing-spending-patterns-doordash-demographics-family-annie-tran-00ulc/?trackingId=pj6iXWrUThSIVgotbPwOMg%3D%3D)
