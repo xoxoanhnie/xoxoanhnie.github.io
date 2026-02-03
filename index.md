@@ -15,8 +15,7 @@ SQL (joins, aggregations, CTEs) • Tableau
 </p>
 
 <p><strong>Outcome:</strong><br>
-Created repeatable SQL queries that surface specialty-level benchmarks and patient flow patterns to support operational decision-making.
-</p>
+Created reusable SQL analyses that identified specialty-level procedure intensity and LOS patterns, enabling benchmarking across 1,200+ patient records.</p>
 
 <p>
 <a href="https://github.com/xoxoanhnie/Clinic-and-Physician-Performance" target="_blank">
@@ -31,17 +30,23 @@ Created repeatable SQL queries that surface specialty-level benchmarks and patie
 #### [Doordash Analysis](https://www.linkedin.com/pulse/analyzing-spending-patterns-doordash-demographics-family-annie-tran-00ulc/?trackingId=pj6iXWrUThSIVgotbPwOMg%3D%3D)
 <img src="/images/DoorDash.png?raw=true"/>
 In this case study, I analyzed DoorDash's data using Excel to explore spending habits, age groups, households with kids, and a closer look at where all that money goes.
+# Tools:
+Excel (pivot tables, formulas), data cleaning, exploratory analysis
+# Methods: 
+Data cleaning, grouping & aggregation, trend analysis, stakeholder-oriented metrics
 
 ---
 #### [Massachusetts Education Analysis](https://www.loom.com/share/9a01e5c918014d319bb1a248b52a1d8f?sid=97c45fa2-f617-4bed-88ea-ff0ce3dc504e)
 <img src="images/Education (1).png?raw=true"/>
 For this project, I delved into key insights about the Massachusetts education system using Tableau, the data explores how class size may impact college attendance, disparities in college attendance based on economic disadvantage, variation in graduation rates, and the 4th grade MCAS passing rates in different region of Massachusetts. 
+# Tools:
+Tableau (dashboards, calculated fields), data visualization
 
 ---
 
-### Other SQL Projects
+### Additional Projects
 
-- [Project 1: Global Debt Insights: Analyzing Financial Data to Understand Loan Disparities Across Nations](https://xoxoanhnie.carrd.co/)
+- [Global Debt Insights: SQL analysis of international debt disparities using World Bank data](https://xoxoanhnie.carrd.co/)
 
 
 
