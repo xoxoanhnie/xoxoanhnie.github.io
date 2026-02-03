@@ -16,7 +16,6 @@ procedure intensity, and demographic trends.
 </a>
 
 
-
 #### [Doordash Analysis](https://www.linkedin.com/pulse/analyzing-spending-patterns-doordash-demographics-family-annie-tran-00ulc/?trackingId=pj6iXWrUThSIVgotbPwOMg%3D%3D)
 <img src="/images/DoorDash.png?raw=true"/>
 In this case study, I dived into DoorDash's data using Excel to explore spending habits, age groups, households with kids, and a closer look at where all that money goes.
@@ -28,15 +27,10 @@ For this project, I delved into key insights about the Massachusetts education s
 
 ---
 
-### SQL Projects
+### Other SQL Projects
 
 - [Project 1: Global Debt Insights: Analyzing Financial Data to Understand Loan Disparities Across Nations](https://xoxoanhnie.carrd.co/)
 
----
-- [Project 2: Optimizing Healthcare Operations: A Data-Driven Analysis of Clinic and Physician Performance
-](https://xoxoanhnie1.carrd.co/)
-
----
 
 
 
