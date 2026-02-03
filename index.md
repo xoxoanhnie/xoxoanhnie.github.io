@@ -3,16 +3,18 @@
 ---
 
 ### Learn About My Projects
-<div class="project">
-  <h3>[Clinic & Physician Performance (SQL)](https://xoxoanhnie1.carrd.co/)</h3>
-  <p>
-    Analyzed hospital patient data using advanced SQL to uncover
-    patterns in length of stay, procedure intensity, and demographic trends.
-  </p>
-  <a href="https://github.com/xoxoanhnie/Clinic-and-Physician-Performance" target="_blank">
-    View Project on GitHub →
-  </a>
-</div>
+<h3>Clinic & Physician Performance (SQL)</h3>
+<p>
+Hospital data analysis using advanced SQL to examine length of stay,
+procedure intensity, and demographic trends.
+</p>
+<a href="https://github.com/xoxoanhnie/Clinic-and-Physician-Performance" target="_blank">
+  GitHub Repository →
+</a><br>
+<a href="https://xoxoanhnie1.carrd.co/" target="_blank">
+  Project Overview (Carrd) →
+</a>
+
 
 
 #### [Doordash Analysis](https://www.linkedin.com/pulse/analyzing-spending-patterns-doordash-demographics-family-annie-tran-00ulc/?trackingId=pj6iXWrUThSIVgotbPwOMg%3D%3D)
